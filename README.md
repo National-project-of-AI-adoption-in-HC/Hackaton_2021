@@ -1,7 +1,7 @@
 # Hackaton: Odhaľovanie anomálií v zdravotníctve za pomoci umelej inteligencie 2021
 
-Miesto konania: Online
-Dátum konania: 6-7.5.2021
+- Miesto konania: Online
+- Dátum konania: 6-7.5.2021
 
 
 ## FAQ
