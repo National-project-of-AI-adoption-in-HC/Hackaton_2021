@@ -3,6 +3,17 @@
 - Miesto konania: Online
 - Dátum konania: 6-7.5.2021
 
+Organizátori Vás pozývajú na neverejný hackathon (iba na pozvánky) k téme odhaľovaniu anomálií a podvodov v zdravotníctve na Slovensku. Akcia prebehne od štvrtku 6.5. do piatku 7.5. online formou pod záštitou Ministerstva zdravotníctva SR a Európskej Komisie.
+
+Účastníkmi hackathonu, okrem zástupcov MZ SR, budú analytici zdravotných poisťovní, experti na umelú inteligenciu z Kempelenovho Inštitútu Inteligentných Technológii, experti na umelú inteligencie z poradenskej spoločnosti PwC a experti vybraných technických univerzít zo Slovenska.
+
+Cieľom hackathonu bude počas 48 hodín vymyslieť a otestovať spôsob detekcie anomálií nad pripravenými zdravotníckymi datasetmi, ktorý sa bude dať uplatniť v oblasti priamej alebo nepriamej revíznej činnosti zdravotnými poisťovňami (napr. revízia platieb za lieky, revízia nahlásených výkonov a iné.  
+
+Pred samotným hackathonom Vám predstavia zahraniční a domáci experti súčasné trendy v odhaľovaní podvodov prostredníctvom umelej inteligencie. Samozrejmosťou budú aj úvodné krátke workshopy vysvetľujúce dataset, s ktorým budete pracovať, princípy platieb a revízii v zdravotníctve alebo algoritmus kategorizácie pacientov podľa diagnóz pri hospitalizácii (tzv. DRG).
+
+Záverom, v piatok 7.5.2021 v poobedných hodinách, budú výsledky prezetnované odbornému panelu, zloženému zo zástupcov zdravotných poisťovaní, MZ SR a KInIT. 
+
+
 
 ## FAQ
 
