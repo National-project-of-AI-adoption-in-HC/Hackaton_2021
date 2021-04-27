@@ -18,7 +18,7 @@ Na začiatku workshopu bude predstavená úloha na hackathon ako aj predpokladan
 
 Vzhľadom na rôznorodosť účastníkov sa predpokladá, že najpoužívanejším jazykom pre samotnú dátovú analýzu bude jazyk Python. Samozrejme použitie iných jazykov a prístupov je na rozhodnutí v tíme a nie je nijako obmedzene.
 
-### 3. Aké technológie potrebujem mat inštalované na počítači? 
+### 3. Aké technológie potrebujem mať nainštalované na počítači? 
 
 Organizátor nestanovuje a nevyžaduje používanie konkrétnej technológie počas hackathonu. Zároveň sme však pripravili odporúčaný zoznam technických požiadaviek, ktoré sú bežne používané.
 
