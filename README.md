@@ -12,6 +12,9 @@
 ## Opis Dát
 Opis dát je dostupný aj na stránke [wiki](https://github.com/National-project-of-AI-adoption-in-HC/Hackaton_2021/wiki/Opis-D%C3%A1t)
 
+## Rozdelenie do tímov
+![Teams](images/teams.jpg)
+
 ## FAQ
 
 ### 1. Ako bude technicky prebiehať online práca počas hackathonu?
