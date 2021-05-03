@@ -4,10 +4,10 @@
 - Dátum konania: 6-7.5.2021
 
 ## Pozvánka
-![Invitation](invitation.jpg)
+![Invitation](images/invitation.jpg)
 
 ## Program
-![Program](program.jpg)
+![Program](images/program.jpg)
 
 ## FAQ
 
